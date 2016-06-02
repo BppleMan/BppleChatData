@@ -16,6 +16,7 @@ public final class CommandSource
 	public static final String byeCommand = "bye";
 	public static final String getFriendInfoCommand = "getfriendinfo";
 
+	// 小修改
 	// 服务器返回指令
 	public static final String canLoginCommand = "CanLogin";
 	public static final String notCanLoginCommand = "NotCanLogin";
