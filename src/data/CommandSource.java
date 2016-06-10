@@ -11,6 +11,7 @@ public final class CommandSource
 {
 	// 客户端指令
 	public static final String loginCommand = "login";
+	public static final String logoutCommand = "logout";
 	public static final String getFriendCommand = "getfriend";
 	public static final String registCommand = "regist";
 	public static final String byeCommand = "bye";
